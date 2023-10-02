@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on <a href="https://createwithshuttle.com/welcome" target="_blank">Shuttle</a><br>👯‍♀️ I'm looking to collaborate on **Full-Stack Web Applications using Vue or React**<br>🌱 I’m currently learning **React, Advanced JavaScript**<br>💬 Ask me about **Vue, JavaScript, front-end design, or making videos**<br>⚡ Fun fact: I'm a **classically-trained pianist**<br>📫 How to reach me **noah@createdbynoah.com**
+# 💫 Hi 👋, I'm Noah:
+- 🔭 I’m currently working on <a href="https://createwithshuttle.com/welcome" target="_blank">Shuttle</a>
+
+- 👯‍♀️ I'm looking to collaborate on **Full-Stack Web Applications using Vue or React**
+
+- 🌱 I’m currently learning **React, Advanced JavaScript**
+
+- 💬 Ask me about **Vue, JavaScript, front-end design, or making videos**
+
+- ⚡ Fun fact: I'm a **classically-trained pianist**
+
+- 📫 How to reach me **noah@createdbynoah.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/noah.rodgers10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noah_rodgers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noahrodgers10) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/noahrodgers10) 
