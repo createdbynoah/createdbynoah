@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Noah:
+# Hi 👋, I'm Noah:
 - 🔭 I’m currently working on <a href="https://createwithshuttle.com/welcome" target="_blank">Shuttle</a>
 
 - 👯‍♀️ I'm looking to collaborate on **Full-Stack Web Applications using Vue or React**
