@@ -3,7 +3,7 @@
 
 - 👯‍♀️ I'm looking to collaborate on **Full-Stack Web Applications using Vue or React**
 
-- 🌱 I’m currently learning **React, Advanced JavaScript**
+- 🌱 I’m currently learning **React, System Design**
 
 - 💬 Ask me about **Vue, JavaScript, front-end design, or making videos**
 
