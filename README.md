@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm a **classically-trained pianist**
 
 ## 🌐 Contact Me:
-<a href="mailto:noah@createdbynoah.com">
+<a href="mailto:noah@noahrodgers.dev">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/noahrodgers10/">
